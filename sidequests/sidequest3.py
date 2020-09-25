@@ -1,7 +1,7 @@
 #!/bin/python3.8
 
 
-print("\n\n\nWelcome to sidequest 2/3!\nThis flag has been fragmented into 3 pieces.\nThe flag is in the format: NTI{1234-1234-1234}\n")
+print("\n\n\nWelcome to sidequest 3!\nThis flag has been fragmented into 3 pieces.\nFind the fragments to find the flag.\n")
 
 print("The first fragment is a freebie: 9341\n")
 f1=input("ENTER FRAGMENT [1]>")
