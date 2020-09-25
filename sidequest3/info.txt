@@ -1,0 +1,2 @@
+The flag is located in flag.txt, hidden deep within the labyrinth.
+Good luck, and don't get lost.
