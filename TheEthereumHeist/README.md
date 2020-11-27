@@ -1,5 +1,5 @@
 # NTI_CTF_TheEthereumHeist
-##an nti ctf event around a heist
+## an nti ctf event around a heist
 ```
                          &
                         /%%
