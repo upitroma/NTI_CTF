@@ -1,0 +1,30 @@
+guest
+guest
+
+member
+NTI{LEAF}
+LEAF
+
+employee
+kitkat
+NTI{i-need-more-caffeine}
+
+moderator
+dreamsicle
+NTI{I-will-not modify-files}
+
+admin
+5334118
+NTI{this-is-where-the-fun-begins}
+
+ethereum vault
+1539
+NTI{the-real-ethereum-is-the-friends-we-made-along-the-way}
+
+
+root
+kjhyfRFPIY0
+
+sshaccess
+nti-ctf-ethereum
+NTI{im-in}

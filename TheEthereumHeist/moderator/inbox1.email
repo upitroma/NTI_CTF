@@ -1,0 +1,16 @@
+FROM: root@HelpingHand.co
+TO: moderator@HelpingHand.co
+SUBJECT: Daily Security Code
+BODY:
+moderator,
+As you probably can guess, the admin is still on vacation.
+I need you to deposit the recent shipment into the vault located in the admin's home directory.
+
+I went ahead and put the admin's daily security code in your home directory.
+You should be able to download it from there.
+Remember, there are no spaces or commas between the digits. We don't want you to lock yourself out again do we? ;)
+
+Yes, I know this violates protocol, but I wrote the damn rules so I get to break them.
+
+Cheers,
+-root

@@ -1,0 +1,11 @@
+No changing passwords or
+Tampering with flags. Here
+Is what you can do:
+{
+Look for flags.
+Escelate your privelages.
+Access files within the /home directory
+Find exploits in the varias web applications.
+}
+
+(member password is flag)

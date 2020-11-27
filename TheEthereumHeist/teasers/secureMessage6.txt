@@ -1,0 +1,27 @@
+Friend,
+I've figured out the entrance nodes.
+
+The main entrance is a known login:
+Username: guest
+Password: guest
+
+The public web server is their main company website.
+Maybe you can use it to find some login info.
+
+The entertainment entry point is a simple clicker game.
+Maybe you can find a way in by exploiting the game.
+
+Finally, there is the computing sector.
+This is where most of the company's computational programs are done.
+Maybe you could use that computing power against them.
+
+
+Also, it looks like they've steped up there security.
+All ssh logins must first log into sshaccess.
+From there, you can log into other users.
+
+Username: sshaccess
+Password: nti-ctf-ethereum
+
+We launch our attack soon,
+-NULL

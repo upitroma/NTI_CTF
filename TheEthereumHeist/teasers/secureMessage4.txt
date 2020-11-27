@@ -1,0 +1,23 @@
+Friend,
+I've figured it out.
+
+That's not a building layout.
+It's a network layout.
+
+Each floor is a diffrent user account.
+The higher up the user is, the more privelages they have.
+
+Those holes in the floors are most likely escalation vulnerabilities.
+It looks like once in, you can gain access to the account directly above you.
+
+Each of the side rooms with the arrows are entrance vectors.
+In theory, those vectors could be used to gain access to the their server.
+
+
+Why would a company make a map like this?
+
+Also, I did more scouting and I can't find any instance of a physical location for The Helping Hand at all.
+Maybe there is no vault after all...
+
+I'll keep you updated,
+-NULL

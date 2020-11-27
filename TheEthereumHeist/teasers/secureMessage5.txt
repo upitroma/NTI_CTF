@@ -1,0 +1,29 @@
+Friend,
+I've got good news and bad news.
+
+Bad news first:
+I can confirm there is no physical location.
+So I've wasted 100k on drilling equipment for nothing.
+
+Now for the good news:
+There IS a vault, but it dosn't contain cash.
+It containes Ethereum, a cryptocurrency.
+
+By my calculations, that vault should contain millions worth of Ethereum.
+
+
+Also, we may have a problem.
+That network map was apparently leaked by another hacker group.
+It's only a matter of time before they break into the vault.
+We need to move quickly to get there first.
+
+So the new plan:
+1. Break in through the entrance nodes.
+2. Gain access to The Helping Hand's servers.
+3. Escalate your privileges untill you are at or above the admin's clearance level.
+4. Find the vault.
+5. Get into the vault.
+6. Profit.
+
+I'll see about getting access to those entrance vectors,
+-NULL

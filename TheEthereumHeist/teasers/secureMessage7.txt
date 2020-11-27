@@ -1,0 +1,26 @@
+Friend,
+Today is the day.
+
+The server is located at 50.116.25.203.
+
+You should be able to log in as sshaccess:
+ssh sshaccess@50.116.25.203
+password: nti-ctf-ethereum
+Once in, you should be able to switch to guest:
+su guest
+password: guest 
+
+You might also be able to find a more elevated login by searching their website:
+http://50.116.25.203
+
+You should also be able to jump straight to an employee login by exploiting their clicker game:
+http://50.116.25.203:4000
+
+If you really want to challenge your skills, you might be able to skip right to the moderator's account by exploiting their computing engine.
+http://50.116.25.203:8080
+
+Remember what we learned from the network layout. You can always start with a low privelaged account, and work your way up.
+The only real goal is the vault.
+
+Good luck,
+-NULL
