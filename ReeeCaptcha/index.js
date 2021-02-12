@@ -40,21 +40,6 @@ io.on("connection",function(socket){
 });
 
 
-//game logic
-setInterval(function(){ 
-    playerLookup.forEach(function(p){
-        if(p.isActive){
-            p.cakes+=(p.cakesPerSec)/10
-            p.socket.emit("cakeCountUpdate",Math.floor(p.cakes))
-            if(p.cakes>99999999999){
-                dest="http://"+getIp()+PORT+"/SSByZWFsbHkgaG9wZSBub2JvZHkgZmluZHMgdGhpcywgdGhhdCB3b3VsZCBiZSBlbWJhcnJhc3Npbmcu/"
-                p.socket.emit("redirect", dest);
-                console.log("redirected")
-                p.isActive=false;
-            }
-        }
-    })
-}, 100);
 
 
 
