@@ -12,10 +12,13 @@ app.use(express.static("public"))
 var io = socket(server)
 
 
-class Hacker{
+class Player{
     constructor(socket){
         this.socket=socket
         this.isActive=true
+
+        this.cakes=0
+        this.cakesPerSec=0
     }
 }
 var playerLookup=[]
@@ -35,10 +38,10 @@ io.on("connection",function(socket){
     });
 
     socket.on("clickCake",function(){
-        console.log("cake was clicked on socket: "+socket.id)
+        console.log("clicked")
+        socket.emit("clicked")
     })
 });
-
 
 
 
